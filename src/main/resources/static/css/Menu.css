@@ -1,0 +1,53 @@
+.menuPri{
+    background:bisque;
+    display: flex;
+    margin-right: 40px;
+    list-style: none;
+}
+.item{
+    padding: 2px 5px;
+}
+.mlink:hover{
+    background-color: coral;
+    border-radius: 20px;
+}
+.mlink{
+    text-decoration: none;
+    color: black;
+}
+*{
+    background: bisque;
+    margin: 0;
+}
+h1,h3{
+     text-align: Center;
+    background: black;
+    font-family: serif;
+    color:coral;
+}
+h2{
+    text-align: Center;
+    background: coral;
+    font-family: serif;
+    color:black; 
+}
+.Men{
+    background: coral;
+    text-align: center;
+    font-family: serif;
+}
+.der{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+   background-color: bisque;
+   text-align: center;
+}
+.img{
+    text-align: center;
+}
+
+

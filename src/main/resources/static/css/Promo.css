@@ -1,0 +1,47 @@
+.menuPri{
+    background:bisque;
+    display: flex;
+    margin-right: 40px;
+    list-style: none;
+}
+.item{
+    padding: 2px 5px;
+}
+.mlink:hover{
+    background-color: coral;
+    border-radius: 20px;
+}
+.mlink{
+    text-decoration: none;
+    color: black;
+}
+*{
+   margin:0;
+}
+.inic{
+    background: bisque;
+}
+
+h1{
+    background: coral;
+    color:black;
+    text-align: center;
+}
+h2{
+    background: black;
+    color:coral;
+    text-align: center;
+}
+.prom1 {
+    background: black;
+    color:white;
+    text-align: center;
+}
+.der{
+   background-color: coral;
+   text-align: center;
+   color:black;
+}
+
+
+

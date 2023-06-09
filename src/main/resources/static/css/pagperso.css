@@ -1,0 +1,108 @@
+#logo {
+    font-size: 30px;
+}
+.pr{
+    display: flex;
+    justify-content: left;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+*{
+     box-sizing: border-box;
+     margin:0;
+     font-family: sans-serif;
+}
+.menuPri{
+    background:bisque;
+    display: flex;
+    margin-right: 40px;
+    list-style: none;
+}
+.mlink:hover{
+    background-color: coral;
+    border-radius: 20px;
+}
+.item{
+    font-size: 20px;
+    margin: 0 38px;
+    line-height: 50px;
+}
+.Principal{
+    background-color:bisque;
+}
+h1{
+    text-align: center;
+    background-color: coral;
+    color:black;
+    font-family: serif;
+}
+.nelo{
+    text-align: center;
+    background-color: black;
+    color:white;
+    font-family: serif;
+}
+.Infor{
+    background-color: black;
+    text-align: left;
+    color:coral;
+    font-family: serif;
+}
+.derechos{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+   background-color: coral;
+   text-align: center;
+}
+
+.prim{
+    text-align: center;
+    background-color: black;
+    color:white;
+    font-family: serif;
+}
+.prim1{
+    text-align: left;
+    font-family: serif;
+}
+.infom{
+    text-align: left;
+    color:black;
+    font-family: serif;
+}
+.in{
+    background-color: coral;
+}
+.log{
+    background: bisque;
+}
+
+.mlink{
+    text-decoration: none;
+    color: black;
+}
+.mlink:hover{
+    background-color: coral;
+    border-radius: 10px;
+}
+.pr{
+    
+    display: flex;
+    justify-content: left;
+}
+.fin{
+    background: bisque
+}
+
+
+
+
+
+
